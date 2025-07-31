@@ -1,0 +1,37 @@
+🌐 COMO ACESSAR O APP DE QUALQUER LUGAR 🌐
+
+✅ PASSO A PASSO:
+
+1️⃣ ABRA DUAS JANELAS DO TERMINAL:
+
+   JANELA 1 - Frontend:
+   ngrok http 3000
+   
+   JANELA 2 - Backend:
+   ngrok http 4000
+
+2️⃣ COPIE AS URLs QUE APARECEM:
+
+   Frontend: https://[CODIGO].ngrok.io
+   Backend: https://[CODIGO].ngrok.io
+
+3️⃣ ACESSE NO CELULAR:
+
+   📱 Abra o Chrome no celular
+   📱 Digite a URL do Frontend
+   📱 Faça login: admin / admin
+   📱 Use normalmente!
+
+4️⃣ URLs EXEMPLO:
+
+   Frontend: https://abc123.ngrok.io
+   Backend: https://def456.ngrok.io
+
+⚠️ IMPORTANTE:
+- URLs mudam a cada reinicialização
+- Funciona via 4G/WiFi externo
+- Acesso de qualquer lugar do mundo
+- Gratuito e seguro
+
+🚀 ALTERNATIVA PERMANENTE:
+Deploy no Vercel = URL fixa para sempre! 
